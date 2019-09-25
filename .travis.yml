@@ -1,11 +1,5 @@
 language: node_js
+services:
+  - mongodb
 node_js:
   - "stable"
-branches:
-  only:
-    - master
-    - dev
-script:
-  - npm run lint
-  - npm test
-
