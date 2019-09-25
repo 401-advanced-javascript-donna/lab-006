@@ -1,20 +1,18 @@
-# LAB - 007 Simple API
+# LAB - 008 Express
 
 ### Author: Donna Lambert
 
 ### Links and Resources
-* [Submission PR](https://github.com/401-advanced-javascript-donna/lab-006/pull/1)
-* [Travis](https://travis-ci.com/401-advanced-javascript-donna/lab-006/builds/129032957)
+* [Submission PR](https://github.com/401-advanced-javascript-donna/lab-006/pull/2)
+* [Travis](https://travis-ci.com/401-advanced-javascript-donna/lab-006/builds/129189356)
+* [Heroku](https://art-house-albums.herokuapp.com/api/albums)
 
 
 #### Running the app
 
 **Describe what npm scripts do**
   * "start": "node server.js",
-  * "lint": "eslint \"**/*.js\"",
-  * "test": "jest --verbose --coverage",
-  * "test-watch": "jest --watchAll --verbose --coverage",
-  * "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  * "start:watch": "nodemon server.js"
 
   ### Postman Routes
   ### GET All Albums:
