@@ -26,4 +26,4 @@
   ### UPDATE (PUT) Album:
   ![UPDATE Album](/assets/PUT.png)
   ### DELETE Album
-  ![DELETE Album](/assets/GET_all.png)
+  ![DELETE Album](/assets/DELETE.png)
