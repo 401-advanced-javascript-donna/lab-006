@@ -1,4 +1,4 @@
-# LAB - 007 Simple API
+# LAB - 006 Mongoose ORM
 
 ### Author: Donna Lambert
 
